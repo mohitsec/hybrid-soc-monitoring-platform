@@ -12,9 +12,9 @@ It includes:
   ![Logs](Screenshots/AWS/LogData.png)
 - Visualization & Dashboards
   ![Chart1](Screenshots/AWS/TopUsersChart.png)
-  ![Chart2](Screenshots/AWS/TopEventTypesChart.png)
   ![Chart3](Screenshots/AWS/EventsOverTImeCHart.png)
   ![Chart4](Screenshots/AWS/DetailedLogsChart.png)
+  ![Chart2](Screenshots/AWS/TopEventTypesChart.png)
 - Sample Log Generator
 
 ## Architecture
@@ -37,6 +37,7 @@ Screenshots available in /screenshots folder.
 - Python
 - OpenSearch-Py
 - Kibana / OpenSearch Dashboards
+
 
 
 
